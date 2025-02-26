@@ -1,0 +1,4155 @@
+air conditioner worker_100
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 8 (4 + 4)
+
+air conditioner worker_101
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (6 + 10)
+
+air conditioner worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 24 (8 + 16)
+
+bicycle worker_101
+Original cnt: 17
+Round 1 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (17 + 27)
+
+bicycle worker_102
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (11 + 19)
+
+bicycle worker_103
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (8 + 22)
+
+binoculars worker_101
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (8 + 8)
+
+binoculars worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 4
+Round 3 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 42 (7 + 35)
+
+binoculars worker_100
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 1
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 14 (6 + 8)
+
+blender worker_101
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (11 + 33)
+
+blender worker_100
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 22 (7 + 15)
+
+blender worker_104
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 56 (8 + 48)
+
+boat worker_100
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 70 (10 + 60)
+
+boat worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (9 + 19)
+
+boat worker_103
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 1
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 14 (6 + 8)
+
+digital camera worker_101
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (11 + 17)
+
+digital camera worker_100
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 26 (7 + 19)
+
+digital camera worker_105
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (8 + 24)
+
+elevator worker_101
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 58 (9 + 49)
+
+elevator worker_106
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 10
+Round 3 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 2
+Round 4 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 76 (8 + 68)
+
+elevator worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (7 + 11)
+
+flashlight worker_101
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 66 (13 + 53)
+
+flashlight worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (7 + 23)
+
+flashlight worker_107
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 4
+Round 3 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (8 + 44)
+
+glider worker_101
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 42 (12 + 30)
+
+glider worker_100
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 38 (12 + 26)
+
+glider worker_102
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (11 + 25)
+
+guitar worker_101
+Original cnt: 17
+Round 1 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 46 (17 + 29)
+
+guitar worker_104
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 26 (6 + 20)
+
+guitar worker_102
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (10 + 26)
+
+house worker_100
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 34 (10 + 24)
+
+house worker_101
+Original cnt: 19
+Round 1 ...
+Additions from constraints 1-3: 26
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 56 (19 + 37)
+
+house worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 24 (9 + 15)
+
+laptop worker_103
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (5 + 23)
+
+laptop worker_101
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (4 + 14)
+
+laptop worker_102
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (5 + 13)
+
+pencil sharpener worker_101
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (6 + 14)
+
+pencil sharpener worker_100
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (6 + 12)
+
+pencil sharpener worker_102
+Original cnt: 3
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (3 + 9)
+
+pillow worker_101
+Original cnt: 2
+Round 1 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (2 + 10)
+
+pillow worker_102
+Original cnt: 2
+Round 1 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (2 + 10)
+
+pillow worker_107
+Original cnt: 2
+Round 1 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 8 (2 + 6)
+
+stroller worker_101
+Original cnt: 17
+Round 1 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 56 (17 + 39)
+
+stroller worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (8 + 36)
+
+stroller worker_100
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 14
+Round 2 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 78 (11 + 67)
+
+table fan worker_106
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 38 (11 + 27)
+
+table fan worker_100
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (7 + 13)
+
+table fan worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (6 + 30)
+
+truck worker_101
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (9 + 27)
+
+truck worker_100
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 24 (8 + 16)
+
+truck worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 26 (6 + 20)
+
+washing machine worker_101
+Original cnt: 14
+Round 1 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 42 (14 + 28)
+
+washing machine worker_102
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 8
+Round 3 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 74 (12 + 62)
+
+washing machine worker_103
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (8 + 44)
+
+wheelchair worker_101
+Original cnt: 20
+Round 1 ...
+Additions from constraints 1-3: 26
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 56 (20 + 36)
+
+wheelchair worker_102
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 50 (12 + 38)
+
+wheelchair worker_100
+Original cnt: 15
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 48 (15 + 33)
+
+zipper worker_101
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 24 (9 + 15)
+
+zipper worker_100
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (9 + 19)
+
+zipper worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (7 + 13)
+
+apple worker_101
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (7 + 25)
+
+apple worker_108
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (6 + 14)
+
+apple worker_100
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (5 + 15)
+
+barbeque grill worker_103
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (8 + 22)
+
+barbeque grill worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 56 (8 + 48)
+
+barbeque grill worker_104
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (8 + 20)
+
+coffee maker worker_101
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 56 (10 + 46)
+
+coffee maker worker_103
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 8
+Round 3 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 84 (12 + 72)
+
+coffee maker worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 4
+Round 3 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 48 (6 + 42)
+
+digital clinical thermometer worker_101
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (6 + 6)
+
+digital clinical thermometer worker_102
+Original cnt: 3
+Round 1 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 6 (3 + 3)
+
+digital clinical thermometer worker_104
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 8 (4 + 4)
+
+dishwasher worker_105
+Original cnt: 15
+Round 1 ...
+Additions from constraints 1-3: 26
+Additions from constraint 4: 12
+Round 2 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 8
+Round 3 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 92 (15 + 77)
+
+dishwasher worker_100
+Original cnt: 16
+Round 1 ...
+Additions from constraints 1-3: 27
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 8
+Round 3 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 90 (16 + 74)
+
+dishwasher worker_104
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (6 + 24)
+
+door worker_101
+Original cnt: 16
+Round 1 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 38 (16 + 22)
+
+door worker_100
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 34 (10 + 24)
+
+door worker_104
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 34 (6 + 28)
+
+dryer worker_101
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (12 + 20)
+
+dryer worker_106
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 10
+Round 3 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 2
+Round 4 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 70 (8 + 62)
+
+dryer worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (7 + 23)
+
+earphone worker_107
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (4 + 12)
+
+earphone worker_101
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 1
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 10 (4 + 6)
+
+earphone worker_102
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (5 + 11)
+
+fish worker_101
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 18
+Round 2 ...
+Additions from constraints 1-3: 29
+Additions from constraint 4: 26
+Round 3 ...
+Additions from constraints 1-3: 26
+Additions from constraint 4: 12
+Round 4 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 156 (11 + 145)
+
+fish worker_100
+Original cnt: 14
+Round 1 ...
+Additions from constraints 1-3: 28
+Additions from constraint 4: 24
+Round 2 ...
+Additions from constraints 1-3: 38
+Additions from constraint 4: 28
+Round 3 ...
+Additions from constraints 1-3: 28
+Additions from constraint 4: 10
+Round 4 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 180 (14 + 166)
+
+fish worker_102
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (10 + 42)
+
+flower worker_107
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (5 + 11)
+
+flower worker_101
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (9 + 23)
+
+flower worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (8 + 22)
+
+kayak worker_100
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (8 + 28)
+
+kayak worker_101
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 14
+Round 3 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 6
+Round 4 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 104 (13 + 91)
+
+kayak worker_102
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 66 (13 + 53)
+
+kite worker_101
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (12 + 20)
+
+kite worker_109
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (10 + 34)
+
+kite worker_100
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (8 + 12)
+
+microphone worker_101
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 1
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (5 + 7)
+
+microphone worker_100
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 1
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (5 + 7)
+
+microphone worker_107
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (9 + 21)
+
+pencil worker_107
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (4 + 14)
+
+pencil worker_101
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 40 (4 + 36)
+
+pencil worker_102
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (4 + 8)
+
+ship worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 38 (8 + 30)
+
+ship worker_104
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 42 (5 + 37)
+
+ship worker_103
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 48 (11 + 37)
+
+suitcase worker_101
+Original cnt: 14
+Round 1 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 62 (14 + 48)
+
+suitcase worker_100
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (13 + 23)
+
+suitcase worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 26 (9 + 17)
+
+teapot worker_101
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (4 + 12)
+
+teapot worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 22 (6 + 16)
+
+teapot worker_107
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (5 + 15)
+
+telephone worker_101
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 34 (11 + 23)
+
+telephone worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 1
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 14 (6 + 8)
+
+telephone worker_107
+Original cnt: 14
+Round 1 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 40 (14 + 26)
+
+telescope worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 48 (8 + 40)
+
+telescope worker_100
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (11 + 33)
+
+telescope worker_106
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (6 + 14)
+
+windmill worker_107
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (5 + 15)
+
+windmill worker_101
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (5 + 13)
+
+windmill worker_102
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (4 + 12)
+
+backpack worker_103
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (6 + 12)
+
+backpack worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (9 + 23)
+
+backpack worker_100
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (7 + 11)
+
+deer worker_101
+Original cnt: 19
+Round 1 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 70 (19 + 51)
+
+deer worker_100
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 4
+Round 3 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 72 (13 + 59)
+
+deer worker_102
+Original cnt: 17
+Round 1 ...
+Additions from constraints 1-3: 25
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 64 (17 + 47)
+
+dog worker_101
+Original cnt: 18
+Round 1 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 66 (18 + 48)
+
+dog worker_102
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 34 (11 + 23)
+
+dog worker_107
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (9 + 19)
+
+doorbell worker_101
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 8 (4 + 4)
+
+doorbell worker_102
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 8 (4 + 4)
+
+doorbell worker_107
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 10 (5 + 5)
+
+fire extinguisher worker_101
+Original cnt: 14
+Round 1 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 38 (14 + 24)
+
+fire extinguisher worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 26 (9 + 17)
+
+fire extinguisher worker_100
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 50 (13 + 37)
+
+hair dryer worker_101
+Original cnt: 21
+Round 1 ...
+Additions from constraints 1-3: 28
+Additions from constraint 4: 12
+Round 2 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 84 (21 + 63)
+
+hair dryer worker_100
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 48 (13 + 35)
+
+hair dryer worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 26 (8 + 18)
+
+ink pen worker_101
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 42 (11 + 31)
+
+ink pen worker_100
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 56 (13 + 43)
+
+ink pen worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 22 (7 + 15)
+
+lightbulb worker_107
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 14 (5 + 9)
+
+lightbulb worker_101
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 42 (11 + 31)
+
+lightbulb worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (9 + 27)
+
+microscope worker_101
+Original cnt: 18
+Round 1 ...
+Additions from constraints 1-3: 25
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 4
+Round 3 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 78 (18 + 60)
+
+microscope worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 34 (9 + 25)
+
+microscope worker_104
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (10 + 34)
+
+rabbit worker_103
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 62 (9 + 53)
+
+rabbit worker_101
+Original cnt: 21
+Round 1 ...
+Additions from constraints 1-3: 34
+Additions from constraint 4: 18
+Round 2 ...
+Additions from constraints 1-3: 31
+Additions from constraint 4: 16
+Round 3 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 4 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 140 (21 + 119)
+
+rabbit worker_102
+Original cnt: 14
+Round 1 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 50 (14 + 36)
+
+refrigerator worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 26 (7 + 19)
+
+refrigerator worker_100
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (9 + 21)
+
+refrigerator worker_104
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 4
+Round 3 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 42 (6 + 36)
+
+rocket worker_100
+Original cnt: 15
+Round 1 ...
+Additions from constraints 1-3: 30
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 4
+Round 3 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 84 (15 + 69)
+
+rocket worker_108
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (11 + 33)
+
+rocket worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 14
+Round 2 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 22
+Round 3 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 16
+Round 4 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 140 (9 + 131)
+
+sandwich worker_101
+Original cnt: 2
+Round 1 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (2 + 10)
+
+sandwich worker_100
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (4 + 12)
+
+sandwich worker_102
+Original cnt: 2
+Round 1 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (2 + 10)
+
+screw worker_101
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (6 + 24)
+
+screw worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (6 + 24)
+
+screw worker_107
+Original cnt: 3
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (3 + 9)
+
+space heater worker_106
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (6 + 22)
+
+space heater worker_107
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (5 + 13)
+
+space heater worker_100
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (10 + 26)
+
+toaster worker_101
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 22 (8 + 14)
+
+toaster worker_104
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (9 + 21)
+
+toaster worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (7 + 45)
+
+typewriter worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (8 + 22)
+
+typewriter worker_103
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 48 (13 + 35)
+
+typewriter worker_100
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 22 (7 + 15)
+
+violin worker_101
+Original cnt: 16
+Round 1 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 46 (16 + 30)
+
+violin worker_104
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (10 + 26)
+
+violin worker_102
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 46 (12 + 34)
+
+wall clock worker_101
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (10 + 22)
+
+wall clock worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 22 (6 + 16)
+
+wall clock worker_107
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 40 (10 + 30)
+
+window worker_101
+Original cnt: 3
+Round 1 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 1
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 8 (3 + 5)
+
+window worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (8 + 20)
+
+window worker_107
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (8 + 24)
+
+bat worker_103
+Original cnt: 14
+Round 1 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 46 (14 + 32)
+
+bat worker_102
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 24 (10 + 14)
+
+bat worker_100
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 60 (13 + 47)
+
+bird worker_107
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (10 + 26)
+
+bird worker_101
+Original cnt: 15
+Round 1 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (15 + 37)
+
+bird worker_102
+Original cnt: 14
+Round 1 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 56 (14 + 42)
+
+bookcase worker_107
+Original cnt: 20
+Round 1 ...
+Additions from constraints 1-3: 32
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 72 (20 + 52)
+
+bookcase worker_101
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 40 (12 + 28)
+
+bookcase worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 26 (7 + 19)
+
+bus worker_101
+Original cnt: 15
+Round 1 ...
+Additions from constraints 1-3: 25
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 74 (15 + 59)
+
+bus worker_104
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (9 + 27)
+
+bus worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 38 (9 + 29)
+
+butterfly worker_110
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (9 + 27)
+
+butterfly worker_101
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 26 (9 + 17)
+
+butterfly worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 34 (8 + 26)
+
+cable car worker_111
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (5 + 15)
+
+cable car worker_101
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (10 + 20)
+
+cable car worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (8 + 20)
+
+calculator worker_101
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 40 (11 + 29)
+
+calculator worker_106
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 24 (5 + 19)
+
+calculator worker_107
+Original cnt: 19
+Round 1 ...
+Additions from constraints 1-3: 25
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (19 + 33)
+
+cat worker_107
+Original cnt: 17
+Round 1 ...
+Additions from constraints 1-3: 26
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (17 + 35)
+
+cat worker_100
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 12
+Round 2 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 18
+Round 3 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 12
+Round 4 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 116 (9 + 107)
+
+cat worker_101
+Original cnt: 22
+Round 1 ...
+Additions from constraints 1-3: 36
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 104 (22 + 82)
+
+chair worker_103
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (5 + 25)
+
+chair worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 38 (8 + 30)
+
+chair worker_100
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (10 + 20)
+
+computer worker_101
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (7 + 13)
+
+computer worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (7 + 13)
+
+computer worker_100
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 14 (5 + 9)
+
+duck worker_101
+Original cnt: 17
+Round 1 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 72 (17 + 55)
+
+duck worker_100
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 58 (9 + 49)
+
+duck worker_102
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (13 + 31)
+
+egg worker_101
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 4
+Round 3 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 56 (8 + 48)
+
+egg worker_103
+Original cnt: 3
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (3 + 13)
+
+egg worker_102
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 24 (4 + 20)
+
+helicopter worker_101
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 60 (13 + 47)
+
+helicopter worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 48 (9 + 39)
+
+helicopter worker_106
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (8 + 28)
+
+knife worker_101
+Original cnt: 20
+Round 1 ...
+Additions from constraints 1-3: 32
+Additions from constraint 4: 8
+Round 2 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 84 (20 + 64)
+
+knife worker_102
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 50 (13 + 37)
+
+knife worker_104
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (5 + 13)
+
+photo frame worker_106
+Original cnt: 3
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (3 + 13)
+
+photo frame worker_101
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (5 + 15)
+
+photo frame worker_107
+Original cnt: 3
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 24 (3 + 21)
+
+rice cooker worker_100
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 54 (12 + 42)
+
+rice cooker worker_102
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 38 (10 + 28)
+
+rice cooker worker_103
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (8 + 28)
+
+saucepan worker_101
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 22 (8 + 14)
+
+saucepan worker_100
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 26 (9 + 17)
+
+saucepan worker_104
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (4 + 14)
+
+shoe worker_101
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 48 (11 + 37)
+
+shoe worker_102
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 46 (13 + 33)
+
+shoe worker_104
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (5 + 39)
+
+train worker_106
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 1
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (9 + 11)
+
+train worker_103
+Original cnt: 14
+Round 1 ...
+Additions from constraints 1-3: 28
+Additions from constraint 4: 14
+Round 2 ...
+Additions from constraints 1-3: 28
+Additions from constraint 4: 8
+Round 3 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 100 (14 + 86)
+
+train worker_102
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 58 (13 + 45)
+
+umbrella worker_100
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 14 (5 + 9)
+
+umbrella worker_101
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 16 (6 + 10)
+
+umbrella worker_104
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (4 + 14)
+
+airplane worker_101
+Original cnt: 15
+Round 1 ...
+Additions from constraints 1-3: 27
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 86 (15 + 71)
+
+airplane worker_102
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (12 + 40)
+
+airplane worker_104
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 12
+Round 2 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 12
+Round 3 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 4 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 80 (7 + 73)
+
+baby bottle worker_101
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (11 + 33)
+
+baby bottle worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (6 + 26)
+
+baby bottle worker_107
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (5 + 15)
+
+bed worker_101
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 22 (7 + 15)
+
+bed worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 22 (6 + 16)
+
+bed worker_107
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 1
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 12 (5 + 7)
+
+bird cage worker_107
+Original cnt: 29
+Round 1 ...
+Additions from constraints 1-3: 35
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 86 (29 + 57)
+
+bird cage worker_101
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (10 + 22)
+
+bird cage worker_104
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 40 (6 + 34)
+
+car worker_101
+Original cnt: 16
+Round 1 ...
+Additions from constraints 1-3: 30
+Additions from constraint 4: 14
+Round 2 ...
+Additions from constraints 1-3: 28
+Additions from constraint 4: 12
+Round 3 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 4 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 116 (16 + 100)
+
+car worker_104
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (7 + 25)
+
+car worker_100
+Original cnt: 14
+Round 1 ...
+Additions from constraints 1-3: 25
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 58 (14 + 44)
+
+chainsaw worker_101
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 19
+Additions from constraint 4: 6
+Round 2 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 54 (10 + 44)
+
+chainsaw worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (8 + 20)
+
+chainsaw worker_107
+Original cnt: 15
+Round 1 ...
+Additions from constraints 1-3: 26
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (15 + 37)
+
+corn worker_101
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (5 + 13)
+
+corn worker_100
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (5 + 13)
+
+corn worker_107
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 5
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (5 + 15)
+
+cow worker_102
+Original cnt: 16
+Round 1 ...
+Additions from constraints 1-3: 27
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 54 (16 + 38)
+
+cow worker_100
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 50 (13 + 37)
+
+cow worker_104
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 14
+Round 3 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 6
+Round 4 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 5 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 88 (7 + 81)
+
+electric stove worker_102
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (8 + 36)
+
+electric stove worker_112
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 60 (12 + 48)
+
+electric stove worker_103
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 22
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 56 (11 + 45)
+
+electric tea kettle worker_102
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (9 + 21)
+
+electric tea kettle worker_104
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 28 (7 + 21)
+
+electric tea kettle worker_107
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 46 (13 + 33)
+
+hot air balloon worker_100
+Original cnt: 15
+Round 1 ...
+Additions from constraints 1-3: 24
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (15 + 37)
+
+hot air balloon worker_101
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 52 (12 + 40)
+
+hot air balloon worker_102
+Original cnt: 15
+Round 1 ...
+Additions from constraints 1-3: 26
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 60 (15 + 45)
+
+humidifier worker_100
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 21
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 54 (13 + 41)
+
+humidifier worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (6 + 30)
+
+humidifier worker_104
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (6 + 14)
+
+microwave worker_101
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 34 (11 + 23)
+
+microwave worker_107
+Original cnt: 10
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 40 (10 + 30)
+
+microwave worker_103
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 36 (8 + 28)
+
+piano worker_101
+Original cnt: 9
+Round 1 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 10
+Round 2 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 6
+Round 3 ...
+Additions from constraints 1-3: 6
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 66 (9 + 57)
+
+piano worker_106
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 24 (5 + 19)
+
+piano worker_103
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (5 + 25)
+
+rat worker_101
+Original cnt: 21
+Round 1 ...
+Additions from constraints 1-3: 34
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 17
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 76 (21 + 55)
+
+rat worker_102
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 24 (5 + 19)
+
+rat worker_103
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 14
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 40 (7 + 33)
+
+stethoscope worker_101
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 20
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (13 + 31)
+
+stethoscope worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (6 + 12)
+
+stethoscope worker_104
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (5 + 13)
+
+table worker_101
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 8
+Additions from constraint 4: 2
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (6 + 14)
+
+table worker_102
+Original cnt: 6
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (6 + 12)
+
+table worker_104
+Original cnt: 4
+Round 1 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 7
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 22 (4 + 18)
+
+table lamp worker_108
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 23
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 54 (12 + 42)
+
+table lamp worker_104
+Original cnt: 8
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 12
+Additions from constraint 4: 2
+Round 3 ...
+Additions from constraints 1-3: 2
+Additions from constraint 4: 0
+Round 4 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (8 + 36)
+
+table lamp worker_100
+Original cnt: 13
+Round 1 ...
+Additions from constraints 1-3: 16
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 32 (13 + 19)
+
+tent worker_101
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 13
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 34 (7 + 27)
+
+tent worker_102
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (7 + 13)
+
+tent worker_103
+Original cnt: 5
+Round 1 ...
+Additions from constraints 1-3: 9
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 4
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 18 (5 + 13)
+
+tree worker_101
+Original cnt: 12
+Round 1 ...
+Additions from constraints 1-3: 15
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 30 (12 + 18)
+
+tree worker_102
+Original cnt: 11
+Round 1 ...
+Additions from constraints 1-3: 18
+Additions from constraint 4: 4
+Round 2 ...
+Additions from constraints 1-3: 11
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 44 (11 + 33)
+
+tree worker_107
+Original cnt: 7
+Round 1 ...
+Additions from constraints 1-3: 10
+Additions from constraint 4: 0
+Round 2 ...
+Additions from constraints 1-3: 3
+Additions from constraint 4: 0
+Round 3 ...
+Additions from constraints 1-3: 0
+Additions from constraint 4: 0
+Total relations: 20 (7 + 13)
+
