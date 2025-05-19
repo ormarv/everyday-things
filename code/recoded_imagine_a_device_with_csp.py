@@ -35,21 +35,21 @@ def recoded_imagine_a_device_with_csp(device, turker, outputs_dir, filter_thresh
             # save
             with open(lm_query_dir + device.replace(" ", "-") + "-" + turker + ".pkl", 'wb') as f:
                 pickle.dump([triplet_ans_conf_lst, triplet_ans_conf_lst_true, neg_ans_conf_lst], f)
-    # use maxsat
-    print("Running maxsat ...", len(triplet_ans_conf_lst), "triplets...")
-    model_believe_true_props, maxsat_selected_props = run_maxsat(device, turker, wcnf_dir, triplet_ans_conf_lst, neg_ans_conf_lst, triplet_ans_conf_lst_true, use_only_model_true_props = False)
+        # use maxsat
+        print("Running maxsat ...", len(triplet_ans_conf_lst), "triplets...")
+        model_believe_true_props, maxsat_selected_props = run_maxsat(device, turker, wcnf_dir, triplet_ans_conf_lst, neg_ans_conf_lst, triplet_ans_conf_lst_true, use_only_model_true_props = False)
 
-    print("Filtering ...", len(model_believe_true_props), "triplets...", len(maxsat_selected_props), "triplets...")
-    # filter based on confidence
-    model_believe_true_props_filtered = filter_props(model_believe_true_props, filter_threshold)
-    maxsat_selected_props_filtered = filter_props(maxsat_selected_props, filter_threshold)
-    all_result_dict = {"macaw_predictions": triplet_ans_conf_lst,\
-                        "macaw_predictions_believe_true": triplet_ans_conf_lst_true,\
-                        "model_believe_true_props": model_believe_true_props,\
-                        "maxsat_selected_props": maxsat_selected_props,\
-                        "filter_threshold": filter_threshold,\
-                        "model_believe_true_props_filtered": model_believe_true_props_filtered,\
-                        "maxsat_selected_props_filtered": maxsat_selected_props_filtered}
-    with open(statements_dir + all_results_filename + ".pkl", 'wb') as f:
+        print("Filtering ...", len(model_believe_true_props), "triplets...", len(maxsat_selected_props), "triplets...")
+        # filter based on confidence
+        model_believe_true_props_filtered = filter_props(model_believe_true_props, filter_threshold)
+        maxsat_selected_props_filtered = filter_props(maxsat_selected_props, filter_threshold)
+        all_result_dict = {"macaw_predictions": triplet_ans_conf_lst,\
+                            "macaw_predictions_believe_true": triplet_ans_conf_lst_true,\
+                            "model_believe_true_props": model_believe_true_props,\
+                            "maxsat_selected_props": maxsat_selected_props,\
+                            "filter_threshold": filter_threshold,\
+                            "model_believe_true_props_filtered": model_believe_true_props_filtered,\
+                            "maxsat_selected_props_filtered": maxsat_selected_props_filtered}
+        with open(statements_dir + all_results_filename + ".pkl", 'wb') as f:
             pickle.dump(all_result_dict, f)
     return all_result_dict
