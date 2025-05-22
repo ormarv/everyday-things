@@ -1,5 +1,6 @@
 from et_recoded import *
 from recoded_imagine_a_device_with_csp import *
+from tqdm import tqdm
 # In this file, no function definitions, only calls !!
 # First, we create a dictionary of parts depending on et and turker.
 # Structure : {(et, turker) : {“triplets”: (triplet,T/F), “parts-list”:[unique parts]}}
@@ -12,16 +13,21 @@ sorted_et2triplets_ann = sorted(et2triplets_ann, key=lambda et_turker: len(et2tr
 # Define a folder for all outputs.
 outputs_dir = "outputs/"
 
+# Define a folder for the plots
+plots_dir = "plots/"
+
 # Define a threshold of confidence for propositions
 filter_threshold = 50
 
+l = len(sorted_et2triplets_ann)
+r = range(l)
 # For each (et, turker) pair, we query macaw and select the rules using a solver
-for mm_idx, et_turker in enumerate(sorted_et2triplets_ann) :
+for mm_idx, et_turker in tqdm(zip(r,sorted_et2triplets_ann)) :
     print(et_turker, "MM #", mm_idx + 1)
         
     et, turker = et_turker
     parts_list = et2triplets_ann[et_turker]['parts-list']
-    print(len(parts_list))  # functional until here
+    print(len(parts_list))
     all_result_dict = recoded_imagine_a_device_with_csp(et, turker, outputs_dir, filter_threshold, parts_list)
     print("ALL RESULTS DICT")
     print(all_result_dict)

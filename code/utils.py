@@ -190,9 +190,9 @@ def decompose_input(string):
     res = {}
     key = "NONE"
     for match in demo_input_regex.finditer(string):
-        print("Match {}".format(match))
+        #print("Match {}".format(match))
         key = match.group(2) or key
-        print("Key : {}".format(key))
+        #print("Key : {}".format(key))
         key = key.upper()
         old = res.get(key,"")
         new = normalize_whitespace(old + " " + match.group(4))
@@ -254,9 +254,9 @@ def get_raw_response(state_dict, compute_answer_fn=None, model_dict=None):
     else:
         input_fields = state_dict['input_fields']
     explicit_outputs = None
-    print("Input fields$")
-    print(input_fields)
-    print("$")
+    #print("Input fields$")
+    #print(input_fields)
+    #print("$")
     # Custom handling of "X" field for "explicit" output values
     if "X" in input_fields:
         explicit_outputs = split_mc_question(input_fields["X"])
