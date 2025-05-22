@@ -4,3 +4,4 @@ code/outputs/*
 code/plots/*
 code/saved_logs/*
 code/output_all_mm_turker_pairs.txt
+code/run_everydaythings.py
