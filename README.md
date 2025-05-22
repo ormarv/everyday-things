@@ -1,3 +1,21 @@
+This is a partial recoding of the repository allenai/everyday-things, from which it was forked (see below for the original README file).
+
+The main difference is the absence of calls to a private server. This can be run on any GPU server. 
+
+Instead of notebooks, it is now possible to run python files, with one file corresponding to each notebook.
+
+## Running instructions
+
+Go to the ```code``` directory, and run the preliminary.py file for the pre-processing tasks (equivalent to running the first notebook).
+
+Then run the main.py file (corresponding to the second notebook) to extract the mental models using Macaw. This step takes a lot of time.
+
+Run the compare_before_after.py file (corresponding to the third notebook) for the analysis of the constraint violations and accuracy before and after the constraint satisfaction layer. This can be done with partial results from the main.py file.
+
+The overlap_set_analysis.py file (corresponding to the fourth notebook) gives an analysis of the overlap between turker results.
+
+## Original README
+
 # Do language models have coherent mental models of everyday things?
 
 To investigate this, we propose a benchmark dataset consisting of 100 everyday things, their parts, and the relationships between these parts. We observe that state-of-the-art pre-trained language models (LMs) like GPT-3 and Macaw have fragments of knowledge about these entities, but they fail to produce consistent parts mental models. We propose a simple extension to these LMs where we apply a constraint satisfaction layer on top of raw predictions from LMs to produce more consistent and accurate parts mental models of everyday things. 
