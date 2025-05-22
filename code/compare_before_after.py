@@ -1,6 +1,6 @@
 from comparison_functions import *
 import os
-#from et_recoded import load_data_and_create_et2triplets_ann
+from et_recoded import load_data_and_create_et2triplets_ann
 # all the functions in this file work!!!
 
 def compare_violations_before_after(statements_dir):
@@ -309,7 +309,7 @@ def plot_by_improvement_merged(rcParams,results_by_improvement_lists,plots_dir, 
     plt.savefig(plots_dir + "Macaw_acc_by_et_accuracy-middle21-80.png")
     plt.show()
 
-'''statements_dir = "outputs/Props/"
+statements_dir = "outputs/Props/"
 plots_dir = "plots/"
 compare_violations_before_after(statements_dir)
 et2triplets_ann = load_data_and_create_et2triplets_ann()
@@ -323,5 +323,5 @@ category_colors = ['cornflowerblue', 'peachpuff']
 plot_correct_mms_for_acc(rcParams,SMALL_SIZE, MEDIUM_SIZE, acc_at_s, mm_total)
 plot_improvement_acc(rcParams, SMALL_SIZE, MEDIUM_SIZE, rln2_correct_total_overall)
 results_by_improvement_lists = results_by_improvement(et2_correct_total_overall,category_names, category_colors)
-plot_by_improvement_and_category(1, results_by_improvement_lists, plots_dir, SMALL_SIZE)
-plot_by_improvement_merged(rcParams, results_by_improvement_lists, plots_dir, SMALL_SIZE)'''
+plot_by_improvement_and_category(3, results_by_improvement_lists, plots_dir, SMALL_SIZE)
+plot_by_improvement_merged(rcParams, results_by_improvement_lists, plots_dir, SMALL_SIZE)

@@ -96,6 +96,7 @@ def enrich_with_constraints_and_create_full_ET_dataset():
     print("Avg. number of relations per MM:", round(total_relations/len(et2triplets_no_enrich),2))
     for rt in relation_type_cnt:
         print(rt, "annotated (avg): ", round(relation_type_cnt[rt]/len(et2triplets_no_enrich),2))
+    return et2triplets_no_enrich
 
 def create_full_ET_dataset(et2triplets_no_enrich, dataset_file, enrich_logfile_path, enrich_cnts_logfile_path, added_relations_logfile_path):
     mini_ET_dataset = open(dataset_file,"w")
@@ -161,3 +162,11 @@ def create_full_ET_dataset(et2triplets_no_enrich, dataset_file, enrich_logfile_p
     enrich_cnts_logfile.close()
     added_relations_logfile.close()
     mini_ET_dataset.close()
+
+et2triplets_no_enrich = enrich_with_constraints_and_create_full_ET_dataset()
+dataset_file = "enriched_mms/full-ET-dataset.tsv"
+enrich_logile_path = "enriched_mms/enrich_log.txt"
+enrich_cnts_logfile_path = "enriched_mms/enrich_cnts_log.txt"
+added_relations_logfile_path = "enriched_mms/added_relations_log.tsv"
+
+create_full_ET_dataset(et2triplets_no_enrich, dataset_file, enrich_logile_path, enrich_cnts_logfile_path, added_relations_logfile_path)

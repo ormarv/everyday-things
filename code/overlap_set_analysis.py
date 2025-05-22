@@ -196,7 +196,7 @@ def compare_accuracy_intersect(statements_dir, et_all_intersect_relations):
     print("per query IMPROVEMENT W MAXSAT", "{}/{} ({})".format(overall_improvement, overall_total_cnt[after_name],\
         round(overall_improvement/overall_total_cnt[after_name] * 100,2)))
                 
-# et2tripletslist = get_et2tripletslist()
-# et_all_intersect_relations = majority_class_intersection(et2tripletslist)
-# overlap_set(et_all_intersect_relations)
-# compare_accuracy_intersect("outputs/Props/",et_all_intersect_relations)
+et2tripletslist = get_et2tripletslist()
+et_all_intersect_relations = majority_class_intersection(et2tripletslist)
+overlap_set(et_all_intersect_relations)
+compare_accuracy_intersect("outputs/Props/",et_all_intersect_relations)
