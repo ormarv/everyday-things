@@ -126,10 +126,9 @@ def get_statements_that_macaw_believesT(triplet_ans_conf_lst):
     return triplet_ans_conf_lst_true
 
 def recoded_run_query_macaw_everyday_thing_batch_mode(device,parts):
-    # TODO reuse the other files I wrote but take out the device as a key this time
     # example of a good line :  
     # [('yolk', 'has part', 'egg white'), 'False', 0.34120868304130925]
-    # (God, this is a mess)
+
     # begin by getting a list of all the permutations of the parts list
     perm = get_parts_perm(device, parts)
 
