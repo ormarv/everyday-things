@@ -5,3 +5,7 @@ code/plots/*
 code/saved_logs/*
 code/output_all_mm_turker_pairs.txt
 code/run_everydaythings.py
+output_et_macan_queries.txt
+code/__pycache__/*
+code/*.ipynb
+code/macaw_query_beaker_input/*
